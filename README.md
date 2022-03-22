@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [my GitHub](my GitHub)
-
 - 📫 How to reach me **l.schimidtc@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
