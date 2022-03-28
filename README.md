@@ -9,6 +9,8 @@
 [![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasschimidtc/)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
+
 <br>
 <br>
 
