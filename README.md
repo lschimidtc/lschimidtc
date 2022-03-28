@@ -59,11 +59,11 @@
 
 <img align="left" alt="ReactJS" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" />
 
-<img align="left" alt="Tensorflow" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-icon.svg" />
+<img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" />
 
-<img align="left" alt="AWS" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg" />
+<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 
-<img align="left" alt="Django" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" />
+<img align="left" alt="Django" width="50px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
 
 <br>
 <br>
