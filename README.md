@@ -75,7 +75,7 @@
 ### **Working Knowledge of/Familiar with**
 
 <a href="https://www.r-project.org/">  
-<img align="left" alt="R" width="50px" src="https://www.r-project.org/Rlogo.png" />
+<img align="left" alt="R" width="55px" src="https://www.r-project.org/Rlogo.png" />
 <a/>
   
 <a href="https://julialang.org/">  
