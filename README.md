@@ -2,8 +2,8 @@
 
 ###### *click on the logos/icons to visit their respective sites!*
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true)]()
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&langs_count=5&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true") />
 
 <br>
 
