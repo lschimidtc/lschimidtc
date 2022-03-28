@@ -15,6 +15,15 @@
 <br>
 <br>
 
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+
 ## I'm a full-time undergrad with a passion for data science, machine learning & sports!
 
 - 📍 **Senior standing undergrad at University of São Paulo - ICMC** 
@@ -151,9 +160,6 @@
 <br>
 <br>
 <br>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
-
   
 [linkedin]: https://www.linkedin.com/in/lucasschimidtc/
 [python]: https://www.python.org/
