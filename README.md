@@ -53,7 +53,7 @@
 
 <img align="left" alt="R" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fef%2F1f%2F99%2Fef1f99172b45de57dca224308f721c6e.png&f=1&nofb=1" />
 
-<img align="left" alt="js" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fjavascript-logo.png&f=1&nofb=1" />
+<img align="left" alt="js" width="55px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 
 <img align="left" alt="ts" width="55px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
 
@@ -73,7 +73,7 @@
 
 ### **Environments/IDEs**
 
-<img align="left" alt="vs" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F280%2Flandscape%2Fvscode-logo.png&f=1&nofb=1" />
+<img align="left" alt="vs" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
 
 <img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
 
