@@ -71,8 +71,8 @@
 
 ### **Environments/IDEs**
 
-[<img align="left" alt="vs" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F280%2Flandscape%2Fvscode-logo.png&f=1&nofb=1" />]
-[<img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />]
-[<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />]
+<img align="left" alt="vs" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F280%2Flandscape%2Fvscode-logo.png&f=1&nofb=1" />
+<img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 
 [linkedin]: https://www.linkedin.com/in/lucasschimidtc/
