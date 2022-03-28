@@ -55,6 +55,8 @@
 
 <img align="left" alt="js" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fjavascript-logo.png&f=1&nofb=1" />
 
+<img align="left" alt="ts" width="55px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
+
 <img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
 
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
