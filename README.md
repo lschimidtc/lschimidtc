@@ -1,6 +1,8 @@
 ## My name is Lucas Schimidt - Welcome to my GitHub! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc)
+###### *click on the logos/icons to visit their respective sites!*
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc" />
 
 <br>
 
