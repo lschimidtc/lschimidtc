@@ -18,7 +18,7 @@
   - 💻 Statistical & Data Science Major
   - 📈 Sports data prediction models group member
 
-- 🧪 **Experience**:
+- 🧪 **Experiences**:
   - Junior Python Developer at Solfácil
   - Scientific Research Student at University of São Paulo - ICMC
   - Administrative Assistant at FJS LTDA.
