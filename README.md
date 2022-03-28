@@ -77,7 +77,7 @@
 
 <img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
 
-<img align="left" alt="DataSpell" width="70px" src="https://www.i-programmer.info/images/stories/News/2021/sept/A/dataspell.jpg" />
+<img align="left" alt="DataSpell" width="70px" src="https://pbs.twimg.com/profile_images/1313580948106162176/3t9ENz_M_400x400.png" />
 
 <img align="left" alt="DataGrip" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/70px-DataGrip.svg.png?20180410164735" />
 
