@@ -75,7 +75,7 @@
 ### **Working Knowledge of/Familiar with**
 
 <a href="https://www.r-project.org/">  
-<img align="left" alt="R" width="80px" src="https://www.r-project.org/Rlogo.png" />
+<img align="left" alt="R" width="50px" src="https://www.r-project.org/Rlogo.png" />
 <a/>
   
 <a href="https://julialang.org/">  
@@ -172,4 +172,3 @@
 [jupyter]: https://jupyter.org/
 [colab]: https://colab.research.google.com/notebooks/intro.ipynb
 [datalore]: https://datalore.jetbrains.com/
-
