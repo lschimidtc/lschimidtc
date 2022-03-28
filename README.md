@@ -105,6 +105,10 @@
 <img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 <a/>
   
+<a href="https://www.docker.com/">  
+<img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+<a/>
+  
 <br>
 <br>
 <br>
@@ -158,6 +162,7 @@
 [django]: https://www.djangoproject.com/
 [tensorflow]: https://www.tensorflow.org/
 [aws]: https://aws.amazon.com/
+[docker]: https://www.docker.com/ 
 
 [vs]: https://code.visualstudio.com/
 [pycharm]: https://www.jetbrains.com/pt-br/pycharm/download/#section=linux
