@@ -51,19 +51,19 @@
 
 ### **Working Knowledge of/Familiar with**
 
-[<img align="left" alt="R" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fef%2F1f%2F99%2Fef1f99172b45de57dca224308f721c6e.png&f=1&nofb=1" />][R]
+<img align="left" alt="R" width="80px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fef%2F1f%2F99%2Fef1f99172b45de57dca224308f721c6e.png&f=1&nofb=1" />
 
-[<img align="left" alt="js" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fjavascript-logo.png&f=1&nofb=1" />][js]
+<img align="left" alt="js" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fjavascript-logo.png&f=1&nofb=1" />
 
-[<img align="left" alt="Julia" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/julialang/julialang-icon.svg" />][julia]
- 
-[<img align="left" alt="ReactJS" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" />][react] 
+<img align="left" alt="Julia" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/julialang/julialang-icon.svg" />
 
-[<img align="left" alt="Tensorflow" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-icon.svg" />][tensorflow]
+<img align="left" alt="ReactJS" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" />] 
 
-[<img align="left" alt="AWS" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg" />][aws]
+<img align="left" alt="Tensorflow" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-icon.svg" />]
 
-[<img align="left" alt="Django" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" />][django]
+<img align="left" alt="AWS" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg" />
+
+<img align="left" alt="Django" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" />
 
 <br>
 <br>
