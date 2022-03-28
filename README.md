@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## I'm a full-time undergrad with a passion for data science and machine learning!
+## I'm a full-time undergrad with a passion for data science, machine learnin & sports!
 
 - 📍 **Senior standing undergrad at University of São Paulo - ICMC** 
   - 💻 Statistical & Data Science Major
