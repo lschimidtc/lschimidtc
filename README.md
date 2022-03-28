@@ -14,6 +14,8 @@
 
 ## I'm a full-time undergrad with a passion for data science, machine learning & sports!
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
+
 - 📍 **Senior standing undergrad at University of São Paulo - ICMC** 
   - 💻 Statistical & Data Science Major
   - 🔬 Scientific Research Student at University of São Paulo - ICMC
