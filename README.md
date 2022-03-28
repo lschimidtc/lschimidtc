@@ -3,6 +3,7 @@
 ###### *click on the logos/icons to visit their respective sites!*
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc" />
+<img align="right" src"https://github-readme-stats.vercel.app/api?username=micaellimedeiros&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/micaellimedeiros/github-readme-stats" />
 
 <br>
 
