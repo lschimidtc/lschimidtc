@@ -146,6 +146,8 @@
   
 <br>
 <br>
+<br>
+<br>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
 
