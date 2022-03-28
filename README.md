@@ -16,12 +16,12 @@
 
 - 📍 **Senior standing undergrad at University of São Paulo - ICMC** 
   - 💻 Statistical & Data Science Major
+  - 🔬 Scientific Research Student at University of São Paulo - ICMC
   - 📈 Sports data prediction models group member
 
 - 🧪 **Experiences**:
-  - Junior Python Developer at Solfácil
-  - Scientific Research Student at University of São Paulo - ICMC
-  - Administrative Assistant at FJS LTDA.
+  - 🌞 Junior Python Developer at Solfácil
+  - 👨‍💼 Administrative Assistant at FJS LTDA.
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
