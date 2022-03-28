@@ -12,6 +12,8 @@
 <br>
 <br>
 
+## I'm a full-time undergrad with a passion for data science and machine learning!
+
 - 📍 **Senior standing undergrad at University of São Paulo - ICMC** 
   - 💻 Statistical & Data Science Major
   - 📈 Sports data prediction models group member
@@ -90,3 +92,29 @@
 <img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />
 
 [linkedin]: https://www.linkedin.com/in/lucasschimidtc/
+[python]: https://www.python.org/
+[postgresql]: https://www.postgresql.org/
+[mongodb]: https://www.mongodb.com/
+[pandas]: https://pandas.pydata.org/
+[numpy]: https://numpy.org/
+[streamlit]: https://www.streamlit.io/
+[matplotlib]: https://matplotlib.org/
+[seaborn]: https://seaborn.pydata.org/
+[linux]: https://www.lpi.org/
+
+[R]: https://www.r-project.org/
+[julia]: https://julialang.org/
+[js]: https://www.javascript.com/
+[ts]: https://www.typescriptlang.org/
+[django]: https://www.djangoproject.com/
+[tensorflow]: https://www.tensorflow.org/
+[aws]: https://aws.amazon.com/pt/
+
+[vs]: https://code.visualstudio.com/
+[pycharm]: https://www.jetbrains.com/pt-br/pycharm/download/#section=linux
+[datagrip]: https://www.jetbrains.com/pt-br/datagrip/
+[dbeaver]: https://dbeaver.io/download/
+[jupyter]: https://jupyter.org/
+[colab]: https://colab.research.google.com/notebooks/intro.ipynb
+[datalore]: https://datalore.jetbrains.com/
+
