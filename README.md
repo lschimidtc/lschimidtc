@@ -74,7 +74,19 @@
 ### **Environments/IDEs**
 
 <img align="left" alt="vs" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F280%2Flandscape%2Fvscode-logo.png&f=1&nofb=1" />
+
+<img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
+
+<img align="left" alt="DataSpell" width="70px" src="https://www.i-programmer.info/images/stories/News/2021/sept/A/dataspell.jpg" />
+
+<img align="left" alt="DataGrip" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/70px-DataGrip.svg.png?20180410164735" />
+
+<img align="left" alt="DBeaver" width="70px" src="https://dbeaver.com/img/dbeaver-head.png" />
+
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+
 <img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
+
+<img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />
 
 [linkedin]: https://www.linkedin.com/in/lucasschimidtc/
