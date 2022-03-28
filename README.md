@@ -28,8 +28,6 @@
 - 📊 I love data visualization!
 - 🥅 2022 Goals: Graduate undergrad, learn as much as I can, have fun!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
-
 ## Languages and Tools:
 
 ### **Proficient in**
@@ -145,6 +143,9 @@
 <a href="https://datalore.jetbrains.com/">  
 <img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />
 <a/>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
+
   
 [linkedin]: https://www.linkedin.com/in/lucasschimidtc/
 [python]: https://www.python.org/
