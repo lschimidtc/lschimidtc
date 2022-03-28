@@ -86,7 +86,7 @@
 <a/>
   
 <a href="https://www.typescriptlang.org/">
-<img align="left" alt="ts" width="55px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
+<img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <a/>
   
 <a href="https://reactjs.org/">  
