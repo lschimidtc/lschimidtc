@@ -57,7 +57,7 @@
 
 <img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
 
-<img align="left" alt="ReactJS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
+<img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
 
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" />
 
