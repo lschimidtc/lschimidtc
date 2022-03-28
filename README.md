@@ -1,4 +1,4 @@
-## My name is Max Bolger - Welcome to my GitHub! 👋
+## My name is Lucas Schimidt - Welcome to my GitHub! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc)
 
@@ -29,22 +29,21 @@
 
 [<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
-[<img aligh="left" alt="PostgreSQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
+[<img align="left" alt="PostgreSQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />][postgresql]
 
-[<img align="left" alt="MongoDB" width="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="linux" width="40" height="40"/>][Linux] 
+[<img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][Linux] 
 
 [<img align="left" alt="Pandas" width="70px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][pandas]
 
 [<img align="left" alt="Numpy" width="65px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />][numpy]
 
-[<img align="left" alt="streamlit" width="70px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />][streamlit]
+[<img align="left" alt="Streamlit" width="70px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />][streamlit]
 
 [<img align="left" alt="Matplotlib" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][matplotlib]
 
 [<img align="left" alt="Seaborn" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png&f=1&nofb=1" />][seaborn]
 
 [<img align="left" alt="Linux" width="Linux"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>][Linux] 
-
 
 <br>
 <br>
@@ -66,7 +65,9 @@
 
 [<img align="left" alt="Django" width="80px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" />][django]
 
-</p>
+<br>
+<br>
+<br>
 
 ### **Environments/IDEs**
 
@@ -75,14 +76,3 @@
 [<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][colab]
 
 [linkedin]: https://www.linkedin.com/in/lucasschimidtc/
-[python]: https://www.python.org/
-[pandas]: https://pandas.pydata.org/
-[matplotlib]: https://matplotlib.org/
-[colab]: https://colab.research.google.com/notebooks/intro.ipynb
-[seaborn]: https://seaborn.pydata.org/
-[numpy]: https://numpy.org/
-[jupyter]: https://jupyter.org/
-[streamlit]: https://www.streamlit.io/
-[js]: https://www.javascript.com/
-[R]: https://www.r-project.org/
-[vs]: https://code.visualstudio.com/
