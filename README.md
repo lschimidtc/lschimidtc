@@ -12,6 +12,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&langs_count=5&theme=tokyonight" />
 
 <br>
+<br>
+<br>
+<br>
 
 ## I'm a full-time undergrad with a passion for data science, machine learning & sports!
 
