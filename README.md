@@ -21,6 +21,7 @@
 - 🧪 **Experience**:
   - Junior Python Developer at Solfácil
   - Scientific Research Student at University of São Paulo - ICMC
+  - Administrative Assistant at FJS LTDA.
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
