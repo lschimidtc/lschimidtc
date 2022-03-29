@@ -25,7 +25,7 @@
 - 📍 **Senior standing undergrad at University of São Paulo - ICMC** 
   - 💻 Statistical & Data Science Major
   - 🔬 Scientific Research Student at University of São Paulo - ICMC
-  - 📈 Sports data prediction models group member
+  - 📈 Sports Data Prediction Models group member
 
 - 🧪 **Experiences**:
   - 🌞 Junior Python Developer at Solfácil
