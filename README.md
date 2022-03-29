@@ -125,7 +125,7 @@
 ### **Environments/IDEs**
 
 <a href="https://code.visualstudio.com/">  
-<img align="left" alt="vs" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
+<img align="left" alt="vs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
 <a/>
   
 <!---<a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=linux">  
