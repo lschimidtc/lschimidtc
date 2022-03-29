@@ -72,7 +72,7 @@
 <img align="left" alt="Seaborn" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png&f=1&nofb=1" />
 <a/>
   
-<!------><a href="https://www.lpi.org/">  
+<!---<a href="https://www.lpi.org/">  
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <a/>--->
   
