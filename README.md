@@ -48,9 +48,9 @@
 <img align="left" alt="PostgreSQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <a/>
   
-<a href="https://www.mongodb.com/">
+<!---<a href="https://www.mongodb.com/">
 <img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<a/>
+<a/>--->
   
 <a href="https://pandas.pydata.org/">
 <img align="left" alt="Pandas" width="70px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
@@ -72,9 +72,9 @@
 <img align="left" alt="Seaborn" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png&f=1&nofb=1" />
 <a/>
   
-<a href="https://www.lpi.org/">  
+<!------><a href="https://www.lpi.org/">  
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<a/>
+<a/>--->
   
 <br>
 <br>
@@ -86,21 +86,21 @@
 <img align="left" alt="R" width="55px" src="https://www.r-project.org/Rlogo.png" />
 <a/>
   
-<a href="https://julialang.org/">  
+<!---<a href="https://julialang.org/">  
 <img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
-<a/>
+<a/>--->
   
 <a href="https://www.javascript.com/">
 <img align="left" alt="js" width="55px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <a/>
   
-<a href="https://www.typescriptlang.org/">
-<img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+<!---<a href="https://www.typescriptlang.org/">
+<img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />--->
 <a/>
   
-<a href="https://reactjs.org/">  
+<!---<a href="https://reactjs.org/">  
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
-<a/>
+<a/>--->
   
 <a href="https://www.djangoproject.com/">  
 <img align="left" alt="Django" width="50px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
@@ -114,9 +114,9 @@
 <img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 <a/>
   
-<a href="https://www.docker.com/">  
+<!---<a href="https://www.docker.com/">  
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-<a/>
+<a/>--->
   
 <br>
 <br>
@@ -132,9 +132,9 @@
 <img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
 <a/>
   
-<a href="https://www.jetbrains.com/pt-br/datagrip/">  
+<!---<a href="https://www.jetbrains.com/pt-br/datagrip/">  
 <img align="left" alt="DataGrip" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/70px-DataGrip.svg.png?20180410164735" />
-<a/>
+<a/>--->
   
 <a href="https://dbeaver.io/download/">  
 <img align="left" alt="DBeaver" width="70px" src="https://dbeaver.com/img/dbeaver-head.png" />
@@ -148,6 +148,6 @@
 <img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 <a/>
   
-<a href="https://datalore.jetbrains.com/">  
-<img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />
+<!---<a href="https://datalore.jetbrains.com/">  
+<img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />--->
 <a/>
