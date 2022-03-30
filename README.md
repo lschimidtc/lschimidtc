@@ -80,6 +80,10 @@
 <img align="left" alt="MATLAB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
 <a/>
   
+<a href="https://www.latex-project.org/">  
+<img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
+<a/>
+  
 <br>
 <br>
 <br>
