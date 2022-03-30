@@ -40,6 +40,10 @@
 
 ### **Proficient in**
 
+<a href="https://rubyonrails.org/">
+<img align="left" alt="Ruby on Rails" width="60px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />
+<a/>
+
 <a href="https://www.python.org/">
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <a/>
@@ -76,9 +80,9 @@
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <a/>--->
 
-<a href="https://www.mathworks.com/products/matlab.html">  
+<!--<a href="https://www.mathworks.com/products/matlab.html">  
 <img align="left" alt="MATLAB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://www.latex-project.org/">  
 <img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
