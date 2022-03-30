@@ -75,6 +75,10 @@
 <!---<a href="https://www.lpi.org/">  
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <a/>--->
+
+<a href="https://www.mathworks.com/products/matlab.html">  
+<img align="left" alt="MATLAB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
+<a/>
   
 <br>
 <br>
