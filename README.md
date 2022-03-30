@@ -40,9 +40,9 @@
 
 ### **Proficient in**
 
-<a href="https://rubyonrails.org/">
+<!---<a href="https://rubyonrails.org/">
 <img align="left" alt="Ruby on Rails" width="60px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />
-<a/>
+<a/>--->
 
 <a href="https://www.python.org/">
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
