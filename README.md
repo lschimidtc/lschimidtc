@@ -2,7 +2,7 @@
 
 ###### *click on the logos/icons to visit their respective sites!*
 
-[![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)
+[![Website](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasschimidtc/)
 [![Website](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lucasschimidtc/)
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/schimidtc.codes)
