@@ -107,9 +107,9 @@
 <img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
 <a/>--->
   
-<a href="https://www.javascript.com/">
+<!---<a href="https://www.javascript.com/">
 <img align="left" alt="js" width="55px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://www.typescriptlang.org/">
 <img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />--->
