@@ -119,17 +119,17 @@
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
 <a/>--->
 
-<!---<a href="https://vuejs.org/">  
+<a href="https://vuejs.org/">  
 <img align="left" alt="VueJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
-<a/>--->
+<a/>
 
 <!---<a href="https://www.djangoproject.com/">  
 <img align="left" alt="Django" width="50px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
 <a/>--->
   
--<a href="https://flask.palletsprojects.com/en/2.1.x/">  
+<a href="https://flask.palletsprojects.com/en/2.1.x/">  
 <img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
-<a/>-
+<a>
   
 <a href="https://www.tensorflow.org/">  
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" />
