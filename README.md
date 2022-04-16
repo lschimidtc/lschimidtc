@@ -112,8 +112,17 @@
 <a/>--->
   
 <!---<a href="https://www.typescriptlang.org/">
-<img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />--->
+<img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+<a/>--->
+  
+<a href="https://www.mysql.com/">
+<img align="left" alt="ts" width="55px" src="https://spng.subpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" />
 <a/>
+  
+
+<a href="https://www.arangodb.com/">
+<img align="left" alt="ts" width="55px" src="https://www.arangodb.com/wp-content/uploads/2020/02/ArangoDB-logo-sq.png" />
+<a/>  
   
 <!---<a href="https://reactjs.org/">  
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
