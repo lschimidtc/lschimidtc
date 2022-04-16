@@ -116,7 +116,7 @@
 <a/>--->
   
 <a href="https://www.mysql.com/">
-<img align="left" alt="ts" width="55px" src="https://spng.subpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" />
+<img align="left" alt="ts" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />
 <a/>
   
 
