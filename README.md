@@ -57,6 +57,10 @@
 <img align="left" alt="PostgreSQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <a/>
   
+<a href="https://www.streamlit.io/">  
+<img align="left" alt="Streamlit" width="70px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />
+<a/>
+  
 <!---<a href="https://www.mongodb.com/">
 <img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <a/>--->
@@ -67,10 +71,6 @@
   
 <a href="https://numpy.org/">  
 <img align="left" alt="Numpy" width="65px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
-<a/>
-  
-<a href="https://www.streamlit.io/">  
-<img align="left" alt="Streamlit" width="70px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />
 <a/>
   
 <a href="https://matplotlib.org/">  
