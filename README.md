@@ -107,9 +107,9 @@
 <img align="left" alt="R" width="55px" src="https://www.r-project.org/Rlogo.png" />
 <a/>
   
-<!---<a href="https://julialang.org/">  
+<a href="https://julialang.org/">  
 <img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
-<a/>--->
+<a/>
   
 <!---<a href="https://www.javascript.com/">
 <img align="left" alt="js" width="55px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
