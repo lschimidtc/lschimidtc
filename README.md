@@ -198,8 +198,5 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
