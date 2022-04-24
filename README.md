@@ -193,5 +193,8 @@
 <img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />--->
 <a/>
   
+<br>
+<br>
+<br>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
-
