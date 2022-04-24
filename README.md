@@ -10,8 +10,6 @@
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/schimidtc.codes)
 [![Website](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lucasschimidtc/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
-
 <br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
@@ -194,3 +192,6 @@
 <!---<a href="https://datalore.jetbrains.com/">  
 <img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />--->
 <a/>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
+
