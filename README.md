@@ -1,5 +1,7 @@
 ## My name is Lucas Schimidt - Welcome to my GitHub! 👋
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
+
 ###### *click on the logos/icons to visit their respective sites!*
 
 <!---[![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)--->
