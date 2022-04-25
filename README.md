@@ -150,6 +150,14 @@
 <a href="https://aws.amazon.com/">  
 <img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 <a/>
+   
+<a href="https://cloud.google.com/?hl=pt-br">  
+<img align="left" alt="Google Cloud" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
+<a/>
+ 
+<a href="https://azure.microsoft.com/pt-br/">  
+<img align="left" alt="Microsoft Azure" width="50px" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" />
+<a/>
 
 <!---<a href="https://airflow.apache.org/">
 <img align="left" alt="Apache Airflow" width="50px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
