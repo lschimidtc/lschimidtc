@@ -199,6 +199,6 @@
 <br>
 <br>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
 
 <a href="https://www.buymeacoffee.com/lschimidtc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 120px !important;" ></a>
