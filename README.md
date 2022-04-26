@@ -186,7 +186,7 @@
 <a/>--->
   
 <a href="https://dbeaver.io/download/">  
-<img align="left" alt="DBeaver" width="70px" src="https://dbeaver.com/img/dbeaver-head.png" />
+<img align="left" alt="DBeaver" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" />
 <a/>
   
 <!---<a href="https://jupyter.org/">  
