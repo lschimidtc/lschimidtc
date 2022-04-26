@@ -146,8 +146,8 @@
 <a href="https://www.tensorflow.org/">  
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
 
-<a href="https://pytorch.org/">  
-<img align="left" alt="Pytorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" /><a/>
+<!---<a href="https://pytorch.org/">  
+<img align="left" alt="Pytorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" /><a/>--->
   
 <a href="https://aws.amazon.com/">  
 <img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
