@@ -39,7 +39,7 @@
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
 - 📊 I love data visualization!
-- 🥅 2022 Goals: Graduate, learn as much as I can and have fun!
+- 🥅 2022 Goals: Learn as much as I can and have fun!
 
 ## Languages and Tools:
 
