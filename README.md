@@ -123,9 +123,9 @@
 <img align="left" alt="ts" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />
 <a/>--->
   
-<!---<a href="https://www.snowflake.com/">
+<a href="https://www.snowflake.com/">
 <img align="left" alt="ts" width="55px" src="https://assets.website-files.com/5d1126db676120bb4fe43762/5fa0775c8dc32dc5cce9150b_snowflake-icon.png" />
-<a/>--->
+<a/>
   
 <!---<a href="https://www.arangodb.com/">
 <img align="left" alt="ts" width="55px" src="https://www.arangodb.com/wp-content/uploads/2020/02/ArangoDB-logo-sq.png" />
