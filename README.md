@@ -131,9 +131,9 @@
 <img align="left" alt="ts" width="55px" src="https://assets.website-files.com/5d1126db676120bb4fe43762/5fa0775c8dc32dc5cce9150b_snowflake-icon.png" />
 <a/>--->
   
-<a href="https://dvc.org/">
+<!---<<a href="https://dvc.org/">
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
-<a/>
+<a/>--->
   
 <!---<a href="https://reactjs.org/">  
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
