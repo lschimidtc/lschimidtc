@@ -182,7 +182,7 @@
 <a/>--->
   
 <a href="https://www.terraform.io/">  
-<img align="left" alt="Terraform" width="50px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_.png" />
+<img align="left" alt="Terraform" width="50px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" />
 <a/>
   
 <br>
