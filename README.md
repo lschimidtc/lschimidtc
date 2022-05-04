@@ -1,4 +1,4 @@
-## My name is Lucas Schimidt - Welcome to my GitHub! 👋
+## My name is Lucas Schimidt - Welcome to my GitHub/Portfolio! 👋
 
 ###### *click on the logos/icons to visit their respective sites!*
 
@@ -105,7 +105,7 @@
 <br>
 <br>
 
-### **Working Knowledge of/Familiar with**
+### **Working knowledge of/Familiar with**
 
 <a href="https://www.r-project.org/">  
 <img align="left" alt="R" width="55px" src="https://www.r-project.org/Rlogo.png" />
