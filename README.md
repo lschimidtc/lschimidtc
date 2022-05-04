@@ -181,8 +181,8 @@
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <a/>--->
   
-<a href="https://www.terraform.io/">  
-<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
+<!---<a href="https://www.terraform.io/">  
+<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />--->
 <a/>
   
 <br>
