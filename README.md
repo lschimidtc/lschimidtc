@@ -181,6 +181,10 @@
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <a/>--->
   
+<a href="https://www.terraform.io/">  
+<img align="left" alt="Terraform" width="50px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_.png" />
+<a/>
+  
 <br>
 <br>
 <br>
