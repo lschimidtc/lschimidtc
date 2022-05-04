@@ -12,9 +12,9 @@
 
 <br>
 
-<!---<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&langs_count=5&theme=tokyonight" />--->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&langs_count=5&theme=tokyonight" />
 
 <br>
 <br>
@@ -40,10 +40,6 @@
 
 - 📊 I love data visualization!
 - 🥅 2022 Goals: Learn more Python, Ruby on Rails, Dutch and obtain a AWS Certifications!
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&langs_count=5&theme=tokyonight" />
 
 ## Languages and Tools:
 
