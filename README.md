@@ -86,7 +86,7 @@
 <a/>
   
 <a href="https://plotly.com/">  
-<img align="left" alt="Plotly" width="70px" src="https://styles.redditmedia.com/t5_3ao4g/styles/communityIcon_hq42kyzrxve51.png" />
+<img align="left" alt="Plotly" width="70px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/plotly-technologies.png" />
 <a/>
   
 <!---<a href="https://www.lpi.org/">  
