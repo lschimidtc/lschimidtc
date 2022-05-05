@@ -85,9 +85,9 @@
 <img align="left" alt="Scikit Learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <a/>
   
-<a href="https://plotly.com/">  
+<!---<a href="https://plotly.com/">  
 <img align="left" alt="Plotly" width="70px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/plotly-technologies.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://www.lpi.org/">  
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
