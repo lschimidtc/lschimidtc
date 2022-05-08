@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
-
 ## My name is Lucas Schimidt - Welcome to my GitHub/Portfolio! 👋
 
 ###### *click on the logos/icons to visit their respective sites!*
