@@ -115,9 +115,9 @@
 <img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
 <a/>
   
-<a href="https://elixir-lang.org/">  
+<!---<a href="https://elixir-lang.org/">  
 <img align="left" alt="Elixir" width="50px" src="https://secure.meetupstatic.com/photos/event/c/a/2/d/600_452871757.jpeg" />
-<a/>
+<a/>--->
   
 <!---<a href="https://www.javascript.com/">
 <img align="left" alt="js" width="55px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
