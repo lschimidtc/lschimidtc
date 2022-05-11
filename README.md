@@ -116,7 +116,7 @@
 <a/>
   
 <a href="https://elixir-lang.org/">  
-<img align="left" alt="Elixir" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu___Vr5sM7k8RWFxGndJJhyWcYkPpMXajNcn9m5DumLzIa_iBtku0lSO8xJZArj4k1jI&usqp=CAU" />
+<img align="left" alt="Elixir" width="50px" src="https://secure.meetupstatic.com/photos/event/c/a/2/d/600_452871757.jpeg" />
 <a/>
   
 <!---<a href="https://www.javascript.com/">
