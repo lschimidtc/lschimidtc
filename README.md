@@ -81,9 +81,9 @@
 <img align="left" alt="Seaborn" width="70px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png&f=1&nofb=1" />
 <a/>--->
   
-<a href="https://scikit-learn.org/stable/">  
+<!---<a href="https://scikit-learn.org/stable/">  
 <img align="left" alt="Scikit Learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://plotly.com/">  
 <img align="left" alt="Plotly" width="70px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/plotly-technologies.png" />
