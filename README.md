@@ -215,9 +215,9 @@
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <a/>--->
   
-<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
+<!---<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
 <img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://datalore.jetbrains.com/">  
 <img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />--->
