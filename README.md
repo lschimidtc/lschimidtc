@@ -39,7 +39,7 @@
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
 - 📊 I love data visualization!
-- 🥅 2022 Goals: Learn more Python, Ruby on Rails, Dutch and obtain a AWS Certifications!
+- 🥅 2022 Goals: Learn more Python, Ruby on Rails, Dutch and obtain a AWS Certification!
 
 ## Languages and Tools:
 
