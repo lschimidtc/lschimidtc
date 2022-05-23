@@ -53,9 +53,9 @@
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <a/>
 
-<a href="https://spark.apache.org/">
+<!---<a href="https://spark.apache.org/">
 <img align="left" alt="Spark Apache" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznfobO1vjkvAPOtGpaRuPamCnA9HClDZOjg&usqp=CAU" />
-<a/>
+<a/>--->
 
 <a href="https://www.postgresql.org/">
 <img align="left" alt="PostgreSQL" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
