@@ -55,7 +55,7 @@
 
 
 <a href="https://www.postgresql.org/">
-<img align="left" alt="PostgreSQL" width="60px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png)" />
+<img align="left" alt="PostgreSQL" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
 <a/>
   
 <a href="https://www.streamlit.io/">  
