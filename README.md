@@ -52,9 +52,13 @@
 <a href="https://www.python.org/">
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <a/>
+  
+<a href="https://spark.apache.org/">
+<img align="left" alt="Apache Spark" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<a/>
 
 <a href="https://www.postgresql.org/">
-<img align="left" alt="PostgreSQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="60px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png)" />
 <a/>
   
 <a href="https://www.streamlit.io/">  
