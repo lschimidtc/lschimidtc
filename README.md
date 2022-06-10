@@ -218,9 +218,9 @@
 <img align="left" alt="DBeaver" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" />
 <a/>
   
-<a href="https://jupyter.org/">  
+<!---<a href="https://jupyter.org/">  
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
 <img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
