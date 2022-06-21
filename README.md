@@ -196,10 +196,6 @@
 <img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />--->
 <a/>
   
-<a href="https://mlflow.org/">  
-<img align="left" alt="Docker" width="50px" src="https://devclass.com/wp-content/uploads/2018/10/MLflow-logo.png" />
-<a/>
-  
 <br>
 <br>
 <br>
