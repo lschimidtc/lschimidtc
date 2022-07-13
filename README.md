@@ -101,13 +101,13 @@
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <a/>--->
 
-<a href="https://www.mathworks.com/products/matlab.html">  
+<!---<a href="https://www.mathworks.com/products/matlab.html">  
 <img align="left" alt="MATLAB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
-<a/>
+<a/>--->
   
-<a href="https://www.latex-project.org/">  
+<!---<a href="https://www.latex-project.org/">  
 <img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
-<a/>
+<a/>--->
   
 <br>
 <br>
@@ -189,13 +189,13 @@
 <img align="left" alt="Apache Airflow" width="50px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
 <a/>--->
   
-<a href="https://www.docker.com/">  
+<!---<a href="https://www.docker.com/">  
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://www.terraform.io/">  
 <img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />--->
-<a/>
+<a/>--->
   
 <br>
 <br>
