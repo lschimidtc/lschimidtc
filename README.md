@@ -195,7 +195,7 @@
   
 <!---<a href="https://www.terraform.io/">  
 <img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />--->
-<a/>--->
+<a/>
   
 <br>
 <br>
