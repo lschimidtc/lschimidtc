@@ -189,9 +189,9 @@
 <img align="left" alt="Apache Airflow" width="50px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
 <a/>--->
   
-<!---<a href="https://www.docker.com/">  
+<a href="https://www.docker.com/">  
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-<a/>--->
+<a/>
   
 <!---<a href="https://www.terraform.io/">  
 <img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />--->
