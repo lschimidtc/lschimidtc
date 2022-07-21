@@ -37,7 +37,7 @@
   - 📈 Sports Data Prediction Models group member
 
 - 🧪 **Experiences**:
-  - 🌞 Junior Python Developer at Solfácil
+  - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
   - 👨‍💼 Administrative Assistant at FJS LTDA.
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
@@ -108,6 +108,10 @@
 <!---<a href="https://www.latex-project.org/">  
 <img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
 <a/>--->
+  
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
+<img align="left" alt="Excel" width="60px" src="[https://cdn.worldvectorlogo.com/logos/latex.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png)" />
+<a/> 
   
 <br>
 <br>
