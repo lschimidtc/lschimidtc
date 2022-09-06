@@ -37,6 +37,7 @@
   - 📈 Sports Data Prediction Models group member
 
 - 🧪 **Experiences**:
+  - 💳 Data Engineer Intern at [Serasa Experian](https://www.serasaexperian.com.br/)
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
   - 👨‍💼 Administrative Assistant at FJS LTDA.
 
