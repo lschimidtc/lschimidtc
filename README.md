@@ -12,6 +12,7 @@
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/schimidtc.codes)
 [![Website](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lucasschimidtc/)
 [![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lucasschimidtc)
+[![Website](https://img.shields.io/badge/Medium-20BEFF?style=for-the-badge&logo=medium&logoColor=black)](https://www.medium.com/lucasschimidt)
 [![Website](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucasschimidt)
 
 <br>
@@ -156,9 +157,9 @@
 <img align="left" alt="ts" width="55px" src="https://assets.website-files.com/5d1126db676120bb4fe43762/5fa0775c8dc32dc5cce9150b_snowflake-icon.png" />
 <a/>--->
 
-<a href="https://www.databricks.com/">
+<!---<a href="https://www.databricks.com/">
 <img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
-<a/>
+<a/>--->
   
 <!---<<a href="https://dvc.org/">
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
@@ -202,9 +203,9 @@
 <img align="left" alt="Apache Airflow" width="50px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
 <a/>--->
 
-<a href="https://impala.apache.org/">  
+<!---<a href="https://impala.apache.org/">  
 <img align="left" alt="Impala" width="50px" src="https://www.bigindustries.be/hubfs/platform_assets_logo-cloudera-impala.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://www.docker.com/">  
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
@@ -214,9 +215,9 @@
 <img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
 <a/>--->
   
-<a href="https://kubernetes.io/">  
+<!---<a href="https://kubernetes.io/">  
 <img align="left" alt="Kubernetes" width="50px" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" />
-<a/>
+<a/>--->
   
 <br>
 <br>
