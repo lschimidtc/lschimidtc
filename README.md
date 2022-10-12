@@ -44,7 +44,7 @@
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
-- 📊 I love data visualization and ML!
+- 📊 I love data visualization, ML & LEGO!
 - 🥅 2022 Goals: Learn more Python, Ruby on Rails, Dutch and obtain an AWS Certification!
 
 ## Languages and Tools:
