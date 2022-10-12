@@ -155,6 +155,10 @@
 <!---<a href="https://www.snowflake.com/">
 <img align="left" alt="ts" width="55px" src="https://assets.website-files.com/5d1126db676120bb4fe43762/5fa0775c8dc32dc5cce9150b_snowflake-icon.png" />
 <a/>--->
+
+<a href="https://www.databricks.com/">
+<img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
+<a/>
   
 <!---<<a href="https://dvc.org/">
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
@@ -197,13 +201,21 @@
 <!---<a href="https://airflow.apache.org/">
 <img align="left" alt="Apache Airflow" width="50px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
 <a/>--->
+
+<a href="https://impala.apache.org/">  
+<img align="left" alt="Impala" width="50px" src="https://www.bigindustries.be/hubfs/platform_assets_logo-cloudera-impala.png" />
+<a/>
   
 <!---<a href="https://www.docker.com/">  
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <a/>--->
   
 <!---<a href="https://www.terraform.io/">  
-<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />--->
+<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
+<a/>--->
+  
+<a href="https://kubernetes.io/">  
+<img align="left" alt="Kubernetes" width="50px" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" />
 <a/>
   
 <br>
@@ -224,17 +236,21 @@
 <img align="left" alt="DataGrip" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/70px-DataGrip.svg.png?20180410164735" />
 <a/>--->
   
-<a href="https://dbeaver.io/download/">  
+<!---<a href="https://dbeaver.io/download/">  
 <img align="left" alt="DBeaver" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://jupyter.org/">  
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <a/>--->
   
-<!---<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
+<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
 <img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
-<a/>--->
+<a/>
+
+<a href="https://www.jetbrains.com/pt-br/datagrip/">  
+<img align="left" alt="DataGrip" width="70px" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" />
+<a/>
   
 <!---<a href="https://datalore.jetbrains.com/">  
 <img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />--->
