@@ -229,6 +229,10 @@
 <img align="left" alt="vs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
 <a/>
 
+<a href="https://www.jetbrains.com/fleet/">  
+<img align="left" alt="Fleet" width="70px" src="https://michaelzhou.gallerycdn.vsassets.io/extensions/michaelzhou/fleet-theme/1.1.4/1660815680693/Microsoft.VisualStudio.Services.Icons.Default" />
+<a/>
+
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=linux">  
 <img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
 <a/>
@@ -244,17 +248,17 @@
 <!---<a href="https://jupyter.org/">  
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <a/>--->
-  
-<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
-<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
-<a/>
 
 <a href="https://www.jetbrains.com/pt-br/datagrip/">  
 <img align="left" alt="DataGrip" width="70px" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" />
 <a/>
   
-<!---<a href="https://datalore.jetbrains.com/">  
-<img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />--->
+<a href="https://datalore.jetbrains.com/">  
+<img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />
+<a/>
+
+<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
+<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 <a/>
   
 <br>
