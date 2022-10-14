@@ -229,9 +229,9 @@
 <img align="left" alt="vs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
 <a/>
 
-<a href="https://www.jetbrains.com/fleet/">  
+<!---<a href="https://www.jetbrains.com/fleet/">  
 <img align="left" alt="Fleet" width="70px" src="https://michaelzhou.gallerycdn.vsassets.io/extensions/michaelzhou/fleet-theme/1.1.4/1660815680693/Microsoft.VisualStudio.Services.Icons.Default" />
-<a/>
+<a/>--->
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=linux">  
 <img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
