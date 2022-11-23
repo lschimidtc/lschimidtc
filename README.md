@@ -93,6 +93,10 @@
 <img align="left" alt="Scikit Learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <a/>
   
+<a href="https://www.statsmodels.org/stable/index.html">  
+<img align="left" alt="Stats Model" width="70px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" />
+<a/>
+  
 <!---<a href="https://plotly.com/">  
 <img align="left" alt="Plotly" width="70px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/plotly-technologies.png" />
 <a/>--->
@@ -163,6 +167,10 @@
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
 <a/>--->
   
+<!---<<a href="https://mlflow.org/">
+<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
+<a/>--->
+  
 <!---<a href="https://reactjs.org/">  
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
 <a/>--->
@@ -179,7 +187,7 @@
 <img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
 <a>--->
   
-<!---<a href="https://www.tensorflow.org/">  
+<!---<a href="https://www.tensor.org/">  
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>--->
 
 <!---<a href="https://pytorch.org/">  
