@@ -167,7 +167,7 @@
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
 <a/>--->
   
-<<a href="https://mlflow.org/">
+<a href="https://mlflow.org/">
 <img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
 <a/>
   
