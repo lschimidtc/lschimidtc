@@ -167,9 +167,9 @@
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
 <a/>--->
   
-<a href="https://mlflow.org/">
+<!---<a href="https://mlflow.org/">
 <img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
-<a/>
+<a/>--->
   
 <!---<a href="https://reactjs.org/">  
 <img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
