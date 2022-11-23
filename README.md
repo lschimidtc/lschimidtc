@@ -31,7 +31,7 @@
 ## I'm a undergrad with a passion for data science, machine learning & sports!
 
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
-  - 💻 [Statistical & Data Science Major](https://www.icmc.usp.br/graduacao/estatistica-bacharelado)
+  - 💻 [Statistics & Data Science Major](https://www.icmc.usp.br/graduacao/estatistica-bacharelado)
   - 🔬 Scientific Research Student at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 📈 Sports Data Prediction Models group member
 
