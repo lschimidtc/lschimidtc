@@ -1,4 +1,4 @@
-## My name is Lucas Schimidt - Welcome to my GitHub!👋
+## My name is Lucas Schimidt - Welcome to my GitHub!!👋
 
 ###### *click on the logos/icons to visit their respective sites!*
 
