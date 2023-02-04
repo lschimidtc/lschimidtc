@@ -70,7 +70,7 @@
 <a/>
   
 <a href="https://www.streamlit.io/">  
-<img align="left" alt="Streamlit" width="70px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
+<img align="left" alt="Streamlit" width="60px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <a/>
   
 <!---<a href="https://www.mongodb.com/">
