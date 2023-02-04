@@ -1,6 +1,6 @@
 ## My name is Lucas Schimidt - Welcome to my GitHub!👋
 
-###### *click on the logos/icons to visit their respective sites!*
+###### *click on the logos/icons to visit their respective sites!!*
 
 <!---[![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)--->
 
