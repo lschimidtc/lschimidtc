@@ -117,9 +117,10 @@
 <img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
 <a/>--->
   
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
+  
+<!---<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
 <img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
-<a/> 
+<a/>--->
   
 <br>
 <br>
