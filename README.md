@@ -211,7 +211,7 @@
 <a/>--->
 
 <a href="https://airflow.apache.org/">
-<img align="left" alt="Apache Airflow" width="50px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
+<img align="left" alt="Apache Airflow" width="50px" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" />
 <a/>
 
 <!---<a href="https://impala.apache.org/">  
