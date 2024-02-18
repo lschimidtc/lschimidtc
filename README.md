@@ -49,7 +49,7 @@
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
 - 📊 I love data engineering, ML & LEGO!
-- 🥅 2023 Goals: Learn Python, Ruby on Rails, and obtain an AWS Certification!
+- 🥅 2024 Goals: Obtain an AWS Certification!
 
 ## Languages and Tools:
 
