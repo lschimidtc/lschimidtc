@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## I'm a undergrad with a passion for data science, machine learning & sports!
+## I'm an undergrad passionate about data science, machine learning & sports!
 
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
   - 💻 [Statistics & Data Science Major](https://www.icmc.usp.br/graduacao/estatistica-bacharelado)
@@ -41,13 +41,14 @@
 
 - 🧪 **Experiences**:
   - 💳 Data Engineer Intern at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/verification/)
+  - Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
   - 👨‍💼 Administrative Assistant at FJS LTDA.
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
-- 📊 I love data engineeering, ML & LEGO!
-- 🥅 2023 Goals: Learn more Python, Ruby on Rails and obtain an AWS Certification!
+- 📊 I love data engineering, ML & LEGO!
+- 🥅 2023 Goals: Learn Python, Ruby on Rails, and obtain an AWS Certification!
 
 ## Languages and Tools:
 
@@ -164,9 +165,9 @@
 <img align="left" alt="ts" width="55px" src="https://assets.website-files.com/5d1126db676120bb4fe43762/5fa0775c8dc32dc5cce9150b_snowflake-icon.png" />
 <a/>--->
 
-<!---<a href="https://www.databricks.com/">
+<a href="https://www.databricks.com/">
 <img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
-<a/>--->
+<a/>
   
 <!---<<a href="https://dvc.org/">
 <img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
