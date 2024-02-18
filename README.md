@@ -37,6 +37,7 @@
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
   - 💻 [Statistics & Data Science Major](https://www.icmc.usp.br/graduacao/estatistica-bacharelado)
   - 🔬 Scientific Research Student at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
+  - 🎓 UNIGOU Exchange Student Resercher at [University of West Bohemia, Pilsen](https://www.google.com/search?q=University+of+West+Bohemia%2C+Pilsen&oq=University+of+West+Bohemia%2C+Pilsen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTIxMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
   - 📈 Sports Data Prediction Models group member
 
 - 🧪 **Experiences**:
