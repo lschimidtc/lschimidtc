@@ -41,7 +41,7 @@
 
 - 🧪 **Experiences**:
   - 💳 Data Engineer Intern at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/verification/)
-  - Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
+  - 🧑‍🎓 Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
   - 👨‍💼 Administrative Assistant at FJS LTDA.
 
