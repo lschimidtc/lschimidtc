@@ -231,6 +231,10 @@
 <!---<a href="https://kubernetes.io/">  
 <img align="left" alt="Kubernetes" width="50px" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" />
 <a/>--->
+
+<a href="https://www.atlassian.com/br/software/jira">  
+<img align="left" alt="Jira" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fatlassian-jira-logo%2F170511&psig=AOvVaw0bngCoXh-PJWCXlk8mdzUB&ust=1708326982450000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC7xYmstIQDFQAAAAAdAAAAABAE" />
+<a/>
   
 <br>
 <br>
