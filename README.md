@@ -159,7 +159,7 @@
 <a/>--->
   
 <a href="https://bitbucket.org/">
-<img align="left" alt="ts" width="55px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="ts" width="55px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />
 <a/>
 
 <!---<a href="https://www.snowflake.com/">
