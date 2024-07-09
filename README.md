@@ -41,6 +41,7 @@
   - 📈 Sports Data Prediction Models group member
 
 - 🧪 **Experiences**:
+  - 🏧 Data Scientist at [Cielo](https://www.cielo.com.br/)
   - 💳 Data Engineer Intern at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/verification/)
   - 🧑‍🎓 Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
