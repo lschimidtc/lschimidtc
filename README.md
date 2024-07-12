@@ -45,11 +45,8 @@
   - 💳 Data Engineer Intern at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/verification/)
   - 🧑‍🎓 Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
-  - 👨‍💼 Administrative Assistant at FJS LTDA.
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
-
-- 🥅 2024 Goals: Obtain an AWS Certification!
 
 ## Languages and Tools:
 
