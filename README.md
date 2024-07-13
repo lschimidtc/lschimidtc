@@ -40,7 +40,7 @@
     
 ## 🌟 Some of my experience:
 
-Worked most of my time in the financial industry in diverse areas such as:
+Worked most of my time in the financial industry & academic in diverse areas such as:
 
 ### 💻 Software Engineering: 
 
