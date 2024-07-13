@@ -16,6 +16,7 @@
 [![Website](https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@l.schimidtc)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasschimidtc/)
 [![Website](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucasschimidt)
+[![Website](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/lschimidtc)
 
 <br>
 
