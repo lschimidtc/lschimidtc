@@ -286,8 +286,3 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lschimidtc&color=blue" alt="Profile views" /> </p>
-
-<!--[![Website](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lucasschimidtc/)-->
-<!--[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lucasschimidtc)-->
-<!--[![Website](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/lucasschimidt)-->
-<!--[![Website](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/lschimidtc)-->
