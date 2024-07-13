@@ -158,6 +158,10 @@
 <img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <a/>
 
+<a href="https://www.postman.com/">  
+<img align="left" alt="Postman" width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+<a/>
+
 <a href="https://www.atlassian.com/br/software/jira">  
 <img align="left" alt="Jira" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <a/>
