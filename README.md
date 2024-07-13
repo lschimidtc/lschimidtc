@@ -61,7 +61,7 @@ Worked most of my time in the financial industry in diverse areas such as:
 * Implementation of dashboards in Streamlit, PowerBI, and Tableau, delivering actionable insights and solutions for BI and risk analysis needs.
 * Conducted survival analysis and time series applied to supply chain, enhancing predictive capabilities and operational efficiency.
 
-### 📚 Teaching and Consulting:
+### 📚 Teaching:
 
 
 
