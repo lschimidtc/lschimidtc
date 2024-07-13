@@ -201,10 +201,10 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
   
-### **Observability & Workflow**
+### **ORM**
 
-<a href="https://mlflow.org/">
-<img align="left" alt="MLFlow" width="55px" src="https://asset.brandfetch.io/idS8GMP5c8/idLUkB4k9V.jpeg" />
+<a href="https://www.sqlalchemy.org/">
+<img align="left" alt="SQLAlchemy" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" />
 <a/>
 
 <br>
@@ -213,8 +213,8 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 
 ### **Observability & Workflow**
 
-<a href="https://www.sqlalchemy.org/">
-<img align="left" alt="SQLAlchemy" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" />
+<a href="https://mlflow.org/">
+<img align="left" alt="MLFlow" width="55px" src="https://asset.brandfetch.io/idS8GMP5c8/idLUkB4k9V.jpeg" />
 <a/>
 
 <a href="https://airflow.apache.org/">
