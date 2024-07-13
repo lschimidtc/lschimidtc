@@ -174,9 +174,9 @@
 <a href="https://www.datadoghq.com/">
 <img align="left" alt="DataDog" width="50px" src="https://seeklogo.com/images/D/datadog-logo-7E553203A0-seeklogo.com.png" />
 <a/>
-  
-<a href="https://grafana.com/">  
-<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
+
+<a href="ttps://grafana.com/">  
+<img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" />
 <a/>
 
 <br>
@@ -184,9 +184,9 @@
 <br>
   
 ### **Cloud**
-  
+
 <a href="https://aws.amazon.com/">  
-<img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" />
+<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 <a/>
   
 <br>
