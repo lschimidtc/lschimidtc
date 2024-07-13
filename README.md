@@ -38,9 +38,9 @@
  
       *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
     
-## 🌟Some of my experience:
+## 🌟 Some of my experience:
 
-Worked most of my time in the bank industry in diverse areas such as:
+Worked most of my time in the financial industry in diverse areas such as:
 
 ### 🔄 Software Engineering: 
 
