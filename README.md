@@ -35,6 +35,8 @@
   - 🎓 UNIGOU Exchange Student Resercher at [University of West Bohemia, Pilsen](https://www.google.com/search?q=University+of+West+Bohemia%2C+Pilsen&oq=University+of+West+Bohemia%2C+Pilsen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTIxMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
   - 🧑‍🎓 Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br)
+ 
+      *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
     
 ## 🌟Some of my experience:
 
@@ -59,10 +61,7 @@ Worked most of my time in the bank industry in diverse areas such as:
 * Implementation of dashboards in Streamlit, PowerBI, and Tableau, delivering actionable insights and solutions for BI and risk analysis needs.
 * Conducted survival analysis and time series applied to supply chain, enhancing predictive capabilities and operational efficiency.
 
-
-  *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
-
-## Main skills:
+## 💥 Main skills:
 
 ### **Languages**
 
