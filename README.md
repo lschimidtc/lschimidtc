@@ -196,6 +196,16 @@
 <br>
 <br>
 
+### **Certifications**
+
+<a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/">  
+<img align="left" alt="AWS Cloud Practitioner" width="50px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" />
+<a/>
+  
+<br>
+<br>
+<br>
+
 ### **Environments/IDEs**
 
 <a href="https://code.visualstudio.com/">  
