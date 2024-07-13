@@ -21,9 +21,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=lschimidtc&count_private=true&theme=tokyonight&showicons=true" />
 
-<picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&layout=compact&theme=tokyonight" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&layout=compact&theme=tokyonight" />
 
 <br>
 <br>
