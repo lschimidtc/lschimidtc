@@ -29,7 +29,7 @@
 ## I'm an undergrad passionate about data science, machine learning & sports!
 
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
-  - 💻  - 🏧 Data Scientist at [Cielo](https://www.cielo.com.br/)
+  - 🏧 Data Scientist at [Cielo](https://www.cielo.com.br/)
   - 💳 Data Engineer Intern at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/verification/)
   - 🔬 Scientific Research Student at [University of São Paulo - ICMC](https://www.icmc.usp.br/)
   - 🎓 UNIGOU Exchange Student Resercher at [University of West Bohemia, Pilsen](https://www.google.com/search?q=University+of+West+Bohemia%2C+Pilsen&oq=University+of+West+Bohemia%2C+Pilsen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTIxMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8)
@@ -42,7 +42,7 @@
 
 Worked most of my time in the financial industry in diverse areas such as:
 
-### 🔄 Software Engineering: 
+### 💻 Software Engineering: 
 
 * Developing automations for data capturing and ingestion, as well as automating legacy processes, using Airflow in the Data Office team.
 * Creation of an end-to-end ETL process for public data, ensuring efficient data extraction, transformation, and loading.
