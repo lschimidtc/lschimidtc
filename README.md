@@ -61,6 +61,13 @@ Worked most of my time in the financial industry in diverse areas such as:
 * Implementation of dashboards in Streamlit, PowerBI, and Tableau, delivering actionable insights and solutions for BI and risk analysis needs.
 * Conducted survival analysis and time series applied to supply chain, enhancing predictive capabilities and operational efficiency.
 
+### 📚 Teaching and Consulting:
+
+
+
+* Created practical classes for SME0882 Statistical Consulting, guiding and evaluating group projects.
+* Played a key role in introducing and teaching the application of advanced cloud computing and machine learning technologies, including AWS SageMaker for statistical modeling and the development of scalable data solutions.
+
 ## 💥 Main skills:
 
 ### **Languages**
