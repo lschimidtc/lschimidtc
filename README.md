@@ -63,6 +63,10 @@
 <img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
 <a/>
 
+<a href="https://www.terraform.io/">  
+<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
+<a/>
+
 <br>
 <br>
 <br>
@@ -73,9 +77,12 @@
 <img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <a/>
 
-<a href="https://www.databricks.com/">
-<img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
-<a/>
+<a href="https://www.tensor.org/">  
+<img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
+
+<a href="https://flask.palletsprojects.com/en/2.1.x/">  
+<img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
+<a>
 
 <a href="https://pandas.pydata.org/">
 <img align="left" alt="Pandas" width="70px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
@@ -101,22 +108,11 @@
 <img align="left" alt="Stats Model" width="50px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" />
 <a/>
 
-<a href="https://flask.palletsprojects.com/en/2.1.x/">  
-<img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
-<a>
-  
-<a href="https://www.tensor.org/">  
-<img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
-
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
-<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
-<a/>
-
 <br>
 <br>
 <br>
 
-## **Databases**
+### **Databases**
 
 <a href="https://www.postgresql.org/">
 <img align="left" alt="PostgreSQL" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
@@ -139,15 +135,6 @@
 <br>
   
 ### **Tools**
-  
-<a href="https://git-scm.com/">
-<img align="left" alt="git" width="55px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<a/>
-
-
-<a href="https://mlflow.org/">
-<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
-<a/>
 
 <a href="https://www.databricks.com/">
 <img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
@@ -157,16 +144,12 @@
 <img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <a/>
   
-<a href="https://www.terraform.io/">  
-<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
-<a/>
-  
 <a href="https://kubernetes.io/">  
 <img align="left" alt="Kubernetes" width="50px" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" />
 <a/>
 
-<a href="https://airflow.apache.org/">
-<img align="left" alt="Apache Airflow" width="50px" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" />
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
+<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <a/>
 
 <a href="https://www.atlassian.com/br/software/jira">  
@@ -177,10 +160,32 @@
 <br>
 <br>
   
+### **Observability & Workflow**
+
+<a href="https://mlflow.org/">
+<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
+<a/>
+
+<a href="https://airflow.apache.org/">
+<img align="left" alt="Apache Airflow" width="50px" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" />
+<a/>
+
+<a href="https://www.datadoghq.com/">
+<img align="left" alt="DataDog" width="50px" src="https://seeklogo.com/images/D/datadog-logo-7E553203A0-seeklogo.com.png" />
+<a/>
+  
+<a href="https://grafana.com/">  
+<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
+<a/>
+
+<br>
+<br>
+<br>
+  
 ### **Cloud**
   
 <a href="https://aws.amazon.com/">  
-<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
+<img align="left" alt="Grafana" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" />
 <a/>
   
 <br>
@@ -203,10 +208,6 @@
   
 <a href="https://jupyter.org/">  
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<a/>
-
-<a href="https://www.jetbrains.com/pt-br/datagrip/">  
-<img align="left" alt="DataGrip" width="70px" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" />
 <a/>
   
 <br>
