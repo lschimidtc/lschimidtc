@@ -39,9 +39,9 @@
 
   *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
 
-## Languages and Tools:
+## Main skills:
 
-### **Proficient in**
+### **Languages**
 
 <!---<a href="https://rubyonrails.org/">
 <img align="left" alt="Ruby on Rails" width="60px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />
@@ -51,22 +51,32 @@
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <a/>
 
-<!---<a href="https://spark.apache.org/">
-<img align="left" alt="Spark Apache" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznfobO1vjkvAPOtGpaRuPamCnA9HClDZOjg&usqp=CAU" />
-<a/>--->
-
-<a href="https://www.postgresql.org/">
-<img align="left" alt="PostgreSQL" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
+<a href="https://www.r-project.org/">  
+<img align="left" alt="R" width="55px" src="https://www.r-project.org/Rlogo.png" />
 <a/>
   
+<a href="https://julialang.org/">  
+<img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
+<a/>
+
+<a href="https://www.mathworks.com/products/matlab.html">  
+<img align="left" alt="MATLAB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
+<a/>
+
+<a href="https://www.latex-project.org/">  
+<img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
+<a/>
+  
+### **Frameworks/Tools**
+
 <a href="https://www.streamlit.io/">  
 <img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
 <a/>
-  
-<!---<a href="https://www.mongodb.com/">
-<img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<a/>--->
-  
+
+<a href="https://www.databricks.com/">
+<img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
+<a/>
+
 <a href="https://pandas.pydata.org/">
 <img align="left" alt="Pandas" width="70px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
 <a/>
@@ -90,27 +100,43 @@
 <a href="https://www.statsmodels.org/stable/index.html">  
 <img align="left" alt="Stats Model" width="50px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" />
 <a/>
-  
-<!---<a href="https://plotly.com/">  
-<img align="left" alt="Plotly" width="70px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/plotly-technologies.png" />
-<a/>--->
-  
-<!---<a href="https://www.lpi.org/">  
-<img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<a/>--->
 
-<a href="https://www.mathworks.com/products/matlab.html">  
-<img align="left" alt="MATLAB" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" />
+<a href="https://www.djangoproject.com/">  
+<img align="left" alt="Django" width="50px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
 <a/>
   
-<!---<a href="https://www.latex-project.org/">  
-<img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
-<a/>--->
+<a href="https://flask.palletsprojects.com/en/2.1.x/">  
+<img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
+<a>
   
-  
-<!---<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
+<a href="https://www.tensor.org/">  
+<img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
+
+<a href="https://mlflow.org/">
+<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
+<a/>
+
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
 <img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
-<a/>--->
+<a/>
+
+## **Databases**
+
+<a href="https://www.postgresql.org/">
+<img align="left" alt="PostgreSQL" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
+<a/>
+  
+<a href="https://www.mongodb.com/">
+<img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<a/> 
+
+<a href="https://www.mysql.com/">
+<img align="left" alt="ts" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />
+<a/>
+  
+<a href="https://www.arangodb.com/">
+<img align="left" alt="ts" width="55px" src="https://www.arangodb.com/wp-content/uploads/2020/02/ArangoDB-logo-sq.png" />
+<a/> 
   
 <br>
 <br>
