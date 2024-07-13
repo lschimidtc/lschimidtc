@@ -207,6 +207,16 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <img align="left" alt="MLFlow" width="55px" src="https://asset.brandfetch.io/idS8GMP5c8/idLUkB4k9V.jpeg" />
 <a/>
 
+<br>
+<br>
+<br>
+
+### **Observability & Workflow**
+
+<a href="https://www.sqlalchemy.org/">
+<img align="left" alt="SQLAlchemy" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" />
+<a/>
+
 <a href="https://airflow.apache.org/">
 <img align="left" alt="Apache Airflow" width="50px" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" />
 <a/>
