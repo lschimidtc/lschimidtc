@@ -198,8 +198,16 @@
 
 ### **Certifications**
 
+<a href="https://www.lpi.org/pt-br/our-certifications/linux-essentials-overview/">  
+<img align="left" alt="LPI Linux Essentials" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/LPI-Essentials-Logo-300X300.png" />
+<a/>
+
 <a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/">  
 <img align="left" alt="AWS Cloud Practitioner" width="50px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" />
+<a/>
+
+<a href="https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/">  
+<img align="left" alt="AWS Cloud Solutions Architect Professional" width="50px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png" />
 <a/>
   
 <br>
