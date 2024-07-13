@@ -43,10 +43,6 @@
 
 ### **Languages**
 
-<!---<a href="https://rubyonrails.org/">
-<img align="left" alt="Ruby on Rails" width="60px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />
-<a/>--->
-
 <a href="https://www.python.org/">
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <a/>
@@ -66,8 +62,12 @@
 <a href="https://www.latex-project.org/">  
 <img align="left" alt="LaTeX" width="60px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
 <a/>
+
+<br>
+<br>
+<br>
   
-### **Frameworks/Tools**
+### **Frameworks & Packages**
 
 <a href="https://www.streamlit.io/">  
 <img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
@@ -101,10 +101,6 @@
 <img align="left" alt="Stats Model" width="50px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" />
 <a/>
 
-<a href="https://www.djangoproject.com/">  
-<img align="left" alt="Django" width="50px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<a/>
-  
 <a href="https://flask.palletsprojects.com/en/2.1.x/">  
 <img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
 <a>
@@ -112,13 +108,13 @@
 <a href="https://www.tensor.org/">  
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
 
-<a href="https://mlflow.org/">
-<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
-<a/>
-
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">  
 <img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <a/>
+
+<br>
+<br>
+<br>
 
 ## **Databases**
 
@@ -142,112 +138,49 @@
 <br>
 <br>
   
-### **Working knowledge of/Familiar with**
-
-<a href="https://www.r-project.org/">  
-<img align="left" alt="R" width="55px" src="https://www.r-project.org/Rlogo.png" />
-<a/>
+### **Tools**
   
-<a href="https://julialang.org/">  
-<img align="left" alt="Julia" width="50px" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4" />
-<a/>
-  
-<!---<a href="https://elixir-lang.org/">  
-<img align="left" alt="Elixir" width="50px" src="https://secure.meetupstatic.com/photos/event/c/a/2/d/600_452871757.jpeg" />
-<a/>--->
-  
-<!---<a href="https://www.javascript.com/">
-<img align="left" alt="js" width="55px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-<a/>--->
-  
-<!---<a href="https://www.typescriptlang.org/">
-<img align="left" alt="ts" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
-<a/>--->
-  
-<!---<a href="https://www.mysql.com/">
-<img align="left" alt="ts" width="55px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" />
-<a/>--->
-  
-<!---<a href="https://www.arangodb.com/">
-<img align="left" alt="ts" width="55px" src="https://www.arangodb.com/wp-content/uploads/2020/02/ArangoDB-logo-sq.png" />
-<a/>--->
-  
-<a href="https://bitbucket.org/">
-<img align="left" alt="ts" width="55px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />
+<a href="https://git-scm.com/">
+<img align="left" alt="git" width="55px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <a/>
 
-<!---<a href="https://www.snowflake.com/">
-<img align="left" alt="ts" width="55px" src="https://assets.website-files.com/5d1126db676120bb4fe43762/5fa0775c8dc32dc5cce9150b_snowflake-icon.png" />
-<a/>--->
+
+<a href="https://mlflow.org/">
+<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
+<a/>
 
 <a href="https://www.databricks.com/">
 <img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
 <a/>
-  
-<!---<<a href="https://dvc.org/">
-<img align="left" alt="ts" width="55px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
-<a/>--->
-  
-<!---<a href="https://mlflow.org/">
-<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
-<a/>--->
-  
-<!---<a href="https://reactjs.org/">  
-<img align="left" alt="ReactJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
-<a/>--->
 
-<!---<a href="https://vuejs.org/">  
-<img align="left" alt="VueJS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
-<a/>--->
-
-<!---<a href="https://www.djangoproject.com/">  
-<img align="left" alt="Django" width="50px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<a/>--->
-  
-<!---<a href="https://flask.palletsprojects.com/en/2.1.x/">  
-<img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
-<a>--->
-  
-<!---<a href="https://www.tensor.org/">  
-<img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>--->
-
-<!---<a href="https://pytorch.org/">  
-<img align="left" alt="Pytorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" /><a/>--->
-  
-<a href="https://aws.amazon.com/">  
-<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
+<a href="https://www.docker.com/">  
+<img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <a/>
-   
-<!---<a href="https://cloud.google.com/?hl=pt-br">  
-<img align="left" alt="Google Cloud" width="50px" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" />
-<a/>--->
- 
-<!---<a href="https://azure.microsoft.com/pt-br/">  
-<img align="left" alt="Microsoft Azure" width="50px" src="https://cdn-icons-png.flaticon.com/512/873/873107.png" />
-<a/>--->
+  
+<a href="https://www.terraform.io/">  
+<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
+<a/>
+  
+<a href="https://kubernetes.io/">  
+<img align="left" alt="Kubernetes" width="50px" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" />
+<a/>
 
 <a href="https://airflow.apache.org/">
 <img align="left" alt="Apache Airflow" width="50px" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" />
 <a/>
 
-<!---<a href="https://impala.apache.org/">  
-<img align="left" alt="Impala" width="50px" src="https://www.bigindustries.be/hubfs/platform_assets_logo-cloudera-impala.png" />
-<a/>--->
-  
-<!---<a href="https://www.docker.com/">  
-<img align="left" alt="Docker" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-<a/>--->
-  
-<!---<a href="https://www.terraform.io/">  
-<img align="left" alt="Terraform" width="50px" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" />
-<a/>--->
-  
-<!---<a href="https://kubernetes.io/">  
-<img align="left" alt="Kubernetes" width="50px" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png" />
-<a/>--->
-
 <a href="https://www.atlassian.com/br/software/jira">  
 <img align="left" alt="Jira" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<a/>
+
+<br>
+<br>
+<br>
+  
+### **Cloud**
+  
+<a href="https://aws.amazon.com/">  
+<img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
 <a/>
   
 <br>
@@ -260,32 +193,20 @@
 <img align="left" alt="vs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
 <a/>
 
-<!---<a href="https://www.jetbrains.com/fleet/">  
-<img align="left" alt="Fleet" width="70px" src="https://michaelzhou.gallerycdn.vsassets.io/extensions/michaelzhou/fleet-theme/1.1.4/1660815680693/Microsoft.VisualStudio.Services.Icons.Default" />
-<a/>--->
-
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=linux">  
 <img align="left" alt="PyCharm" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" />
 <a/>
   
-<!---<a href="https://dbeaver.io/download/">  
+<a href="https://dbeaver.io/download/">  
 <img align="left" alt="DBeaver" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" />
-<a/>--->
+<a/>
   
-<!---<a href="https://jupyter.org/">  
+<a href="https://jupyter.org/">  
 <img align="left" alt="Jupyter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<a/>--->
+<a/>
 
 <a href="https://www.jetbrains.com/pt-br/datagrip/">  
 <img align="left" alt="DataGrip" width="70px" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" />
-<a/>
-  
-<a href="https://datalore.jetbrains.com/">  
-<img align="left" alt="DataLore" width="70px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/80799f4b-03de-470c-9888-25f548b51a0b.png?auto=format&size=150" />
-<a/>
-
-<a href="https://colab.research.google.com/notebooks/intro.ipynb">  
-<img align="left" alt="Colab" width="70px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 <a/>
   
 <br>
