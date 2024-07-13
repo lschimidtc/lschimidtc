@@ -23,15 +23,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lschimidtc&layout=compact&theme=tokyonight" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## I'm an undergrad passionate about data science, machine learning & sports!
 
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
