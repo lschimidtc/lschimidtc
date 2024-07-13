@@ -81,7 +81,7 @@
 <img align="left" alt="FastAPI" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" /><a/>
 
 <a href="https://flask.palletsprojects.com/en/2.1.x/">  
-<img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
+<img align="left" alt="Flask" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" />
 <a>
 
 <a href="https://www.streamlit.io/">  
@@ -167,7 +167,7 @@
 ### **Observability & Workflow**
 
 <a href="https://mlflow.org/">
-<img align="left" alt="MLFlow" width="55px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
+<img align="left" alt="MLFlow" width="55px" src="https://asset.brandfetch.io/idS8GMP5c8/idLUkB4k9V.jpeg" />
 <a/>
 
 <a href="https://airflow.apache.org/">
