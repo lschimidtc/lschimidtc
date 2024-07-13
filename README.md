@@ -74,16 +74,19 @@
   
 ### **Frameworks & Packages**
 
-<a href="https://www.streamlit.io/">  
-<img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
-<a/>
-
 <a href="https://www.tensor.org/">  
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
+
+<a href="https://fastapi.tiangolo.com/">  
+<img align="left" alt="FastAPI" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" /><a/>
 
 <a href="https://flask.palletsprojects.com/en/2.1.x/">  
 <img align="left" alt="Flask" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
 <a>
+
+<a href="https://www.streamlit.io/">  
+<img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
+<a/>
 
 <a href="https://pandas.pydata.org/">
 <img align="left" alt="Pandas" width="70px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
