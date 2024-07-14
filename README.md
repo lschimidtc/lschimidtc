@@ -117,7 +117,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <a/>
 
 <a href="https://pandas.pydata.org/">
-<img align="left" alt="Pandas" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&s" />
+<img align="left" alt="Pandas" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&s" />
 <a/>
   
 <a href="https://numpy.org/">  
@@ -193,7 +193,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <a/>
 
 <a href="https://www.jenkins.io/">  
-<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" alt="Jenkins" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <a/>
 
 <a href="https://www.atlassian.com/br/software/jira">  
