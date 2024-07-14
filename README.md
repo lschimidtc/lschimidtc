@@ -117,7 +117,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <a/>
 
 <a href="https://pandas.pydata.org/">
-<img align="left" alt="Pandas" width="70px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
+<img align="left" alt="Pandas" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&s" />
 <a/>
   
 <a href="https://numpy.org/">  
