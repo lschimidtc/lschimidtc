@@ -188,9 +188,12 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <img align="left" alt="PowerBI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" />
 <a/>
 
-
 <a href="https://www.postman.com/">  
 <img align="left" alt="Postman" width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+<a/>
+
+<a href="https://www.jenkins.io/">  
+<img align="left" alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <a/>
 
 <a href="https://www.atlassian.com/br/software/jira">  
