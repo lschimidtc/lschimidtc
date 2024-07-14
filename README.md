@@ -259,6 +259,14 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <a href="https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/">  
 <img align="left" alt="AWS Cloud Solutions Architect Professional" width="50px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png" />
 <a/>
+
+<a href="https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/?ch=sec&sec=rmg&d=1">  
+<img align="left" alt="AAWS Certified Machine Learning Engineer - Associate" width="50px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate-beta_badge_300x300.e5b7f4889cd9e7d9acf67e82f5a5473f6cda62e0.png" />
+<a/>
+
+<a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/">  
+<img align="left" alt="AWS Certified Machine Learning - Specialty" width="50px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" />
+<a/>
   
 <br>
 <br>
