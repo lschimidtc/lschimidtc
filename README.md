@@ -31,9 +31,9 @@
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
   - 🏧 Data Scientist at [Cielo](https://www.cielo.com.br/) [July/24 - Currently]
   - 💳 Data Engineer Intern at [Serasa Experian](https://www.linkedin.com/company/serasaexperian/mycompany/verification/) [August/22 - July/24]
-  - 🔬 Scientific Research Student at [University of São Paulo - ICMC](https://www.icmc.usp.br/) [March/21 - March/22]
   - 🎓 UNIGOU Exchange Student Resercher at [University of West Bohemia, Pilsen](https://www.google.com/search?q=University+of+West+Bohemia%2C+Pilsen&oq=University+of+West+Bohemia%2C+Pilsen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIMTIxMWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8) [January/24 - Match/24]
   - 🧑‍🎓 Student Monitor at [University of São Paulo - ICMC](https://www.icmc.usp.br/) [July/23 - September/23] & [March/24 - June/24]
+  - 🔬 Scientific Research Student at [University of São Paulo - ICMC](https://www.icmc.usp.br/) [March/21 - March/22]
   - 🌞 Junior Python Developer at [Solfácil](https://www.linkedin.com/company/solfacil/?originalSubdomain=br) [August/21 - January/22]
  
       *(to learn more about these positions, check out my LinkedIn or website by clicking the respective buttons above!)*
