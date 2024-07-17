@@ -2,8 +2,6 @@
 
 ###### *click on the logos/icons to visit their respective sites!!*
 
-[![Website](https://img.shields.io/badge/My_Website_Portfolio-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)
-
 <!---[![Website](https://img.shields.io/badge/Website-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)--->
 
 <!---[![Website](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://lucasschimidtc.github.io/)--->
@@ -12,6 +10,7 @@
 
 <!---[![Website](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/lucasschimidtc)--->
 
+[![Website](https://img.shields.io/badge/My_Website-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/schimidt.codes)
 [![Website](https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@l.schimidtc)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasschimidtc/)
