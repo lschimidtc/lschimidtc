@@ -69,7 +69,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 
 ## 💥 Main skills:
 
-### **Languages**
+### 🌐 **Languages**
 
 <a href="https://www.python.org/">
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -99,7 +99,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
   
-### **Frameworks & Packages**
+### 🛠️ **Frameworks & Packages**
 
 <a href="https://www.tensor.org/">  
 <img align="left" alt="Tensorflow" width="50px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" /><a/>
@@ -143,7 +143,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
 
-### **Databases**
+### 🗃️ **Databases**
 
 <a href="https://www.postgresql.org/">
 <img align="left" alt="PostgreSQL" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
@@ -165,7 +165,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
   
-### **Tools**
+### 🔧 **Tools**
 
 <a href="https://www.databricks.com/">
 <img align="left" alt="DataBricks" width="55px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
@@ -203,7 +203,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
   
-### **ORM**
+### 🔄 **ORM**
 
 <a href="https://www.sqlalchemy.org/">
 <img align="left" alt="SQLAlchemy" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuim-LaZV2h_liFO_YNZLMVZZbv47mTOxFkw&s" />
@@ -213,7 +213,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
 
-### **Observability & Workflow**
+### 🔍 **Observability & Workflow**
 
 <a href="https://mlflow.org/">
 <img align="left" alt="MLFlow" width="55px" src="https://asset.brandfetch.io/idS8GMP5c8/idLUkB4k9V.jpeg" />
@@ -235,7 +235,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
   
-### **Cloud**
+### 🌩️ **Cloud**
 
 <a href="https://aws.amazon.com/">  
 <img align="left" alt="AWS" width="50px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
@@ -245,7 +245,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
 
-### **Certifications**
+### 📜 **Certifications**
 
 <a href="https://www.lpi.org/pt-br/our-certifications/linux-essentials-overview/">  
 <img align="left" alt="LPI Linux Essentials" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/LPI-Essentials-Logo-300X300.png" />
@@ -271,7 +271,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <br>
 <br>
 
-### **Environments/IDEs**
+### 👨‍💻 **Environments/IDEs**
 
 <a href="https://code.visualstudio.com/">  
 <img align="left" alt="vs" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
