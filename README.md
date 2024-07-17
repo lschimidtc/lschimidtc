@@ -111,9 +111,9 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <img align="left" alt="Flask" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" />
 <a>
 
-<a href="https://www.streamlit.io/">  
+<!---<a href="https://www.streamlit.io/">  
 <img align="left" alt="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
-<a/>
+<a/>--->
 
 <a href="https://pandas.pydata.org/">
 <img align="left" alt="Pandas" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&s" />
