@@ -10,7 +10,7 @@
 
 <!---[![Website](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/lucasschimidtc)--->
 
-[![Website](https://img.shields.io/badge/My_Website-9cf?style=for-the-badge](https://img.shields.io/badge/custom-logo-blue.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjAwIDIwMCI+PHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiM0Q0FGNTAiIC8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iNjAiIGZpbGw9IndoaXRlIj5MU0M8L3RleHQ+PC9zdmc+)](https://lucasschimidtc.github.io/)
+[![Website](https://img.shields.io/badge/My_Website-9cf?style=for-the-badge)](https://lucasschimidtc.github.io/)
 [![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/schimidt.codes)
 [![Website](https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@l.schimidtc)
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasschimidtc/)
