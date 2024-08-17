@@ -220,7 +220,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <a/>
 
 <a href="https://airflow.apache.org/">
-<img align="left" alt="Apache Airflow" width="50px" src="https://static-00.iconduck.com/assets.00/airflow-icon-512x512-tpr318yf.png" />
+<img align="left" alt="Apache Airflow" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" />
 <a/>
 
 <a href="https://www.datadoghq.com/">
