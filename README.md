@@ -25,7 +25,7 @@
 
 <br>
 
-## I'm an undergrad passionate about data science, machine learning & sports!
+## I'm an undergrad passionate about data science & sports!
 
 - 📍 **Senior standing undergrad at [University of São Paulo - ICMC](https://www.icmc.usp.br/)** 
   - 🏧 Data Scientist at [Cielo](https://www.cielo.com.br/) [July/24 - Currently]
