@@ -259,7 +259,7 @@ Worked most of my time in the financial industry & academic in diverse areas suc
 <a/>
 
 <a href="https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/?ch=sec&sec=rmg&d=1">  
-<img align="left" alt="AAWS Certified Machine Learning Engineer - Associate" width="50px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate-beta_badge_300x300.e5b7f4889cd9e7d9acf67e82f5a5473f6cda62e0.png" />
+<img align="left" alt="AAWS Certified Machine Learning Engineer - Associate" width="50px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Machine-Learning-Engineer-Associate_badge_300x300.765d89ecbf75f371b057aefba731fb5e724cd092.png" />
 <a/>
 
 <a href="https://aws.amazon.com/certification/certified-machine-learning-specialty/">  
